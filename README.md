@@ -23,14 +23,12 @@ PREFIX = '->'
 ```
 
 ##### 3. Installing requerements
-> ./
 ```py
 $ cd path/to/requirements.txt
 $ pip3 install -r requirements.txt
 ```
 
 ##### 4. Running code
-> ./
 ```py
 $ cd path/to/eagle.py
 $ py eagle.py
@@ -40,4 +38,4 @@ $ py eagle.py
 ##### Base documentation contains in `!help`, `!commands` and `!invite`.
 
 # 🔄 Feedback 
-All critics we'll wait here: https://discord.gg/dVbPMUKFnh
+All critics and ideas we'll wait here: https://discord.gg/dVbPMUKFnh
