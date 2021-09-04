@@ -13,7 +13,7 @@ $ git clone https://github.com/DarkJoij/Eagle.git
 or download it is archive `.zip`.
 
 ##### 2. Enter your token into config
-> ./config.py
+> ./source/config.py
 ```py
 #INFOALERT
 TOKEN = 'toke' #Enter here
@@ -24,13 +24,13 @@ PREFIX = '->'
 
 ##### 3. Installing requerements
 ```py
-$ cd path/to/requirements.txt
+$ cd path/to/requirements.txt (must be ./)
 $ pip3 install -r requirements.txt
 ```
 
 ##### 4. Running code
 ```py
-$ cd path/to/eagle.py
+$ cd ./source
 $ py eagle.py
 ```
 
