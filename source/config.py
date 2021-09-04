@@ -1,0 +1,5 @@
+#INFOALERT
+TOKEN = 'toke'
+
+#PREFIX
+PREFIX = '->'
