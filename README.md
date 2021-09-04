@@ -35,7 +35,7 @@ $ py eagle.py
 ```
 
 # 💡 Commands
-##### Base documentation contains in `!help`, `!commands` and `!invite`.
+Base documentation contains in `!help`, `!commands` and `!invite`.
 
 # 🔄 Feedback 
 All critics and ideas we'll wait here: https://discord.gg/dVbPMUKFnh
