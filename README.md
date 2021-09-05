@@ -22,7 +22,7 @@ TOKEN = 'toke' #Enter here
 PREFIX = '->'
 ```
 
-##### 3. Installing requerements
+##### 3. Installing requierements
 ```py
 $ cd path/to/requirements.txt (must be ./)
 $ pip3 install -r requirements.txt
