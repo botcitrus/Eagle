@@ -750,37 +750,5 @@ class economy(commands.Cog):
             else:
                 await ctx.reply(embed=e, mention_author=False)
 
-"""
-    @tasks.loop(seconds=10, reconnect=True)
-    async def crypto_editor(self):
-        with open('databases/economy_data/economy_db.json', 'r') as f:
-            eco = json.load(f)
-        channel = self.Bot.get_channel(866662493048799242)
-        value = random.randint(10, 15000)
-        action = random.choice(['plus', 'minus'])
-        if action == 'plus':
-            eco["users"]["crypto"]["cryptovalue"] += value
-            with open('databases/economy_data/economy_db.json', 'w') as f:
-                json.dump(eco, f)
-            crs = eco["users"]["crypto"]["cryptovalue"]
-            embed = discord.Embed(
-                title=f'Курс криптовалюты успешно изменен!',
-                description = f"Произошёл скачок в цене на **{value}₽**. Текущий курс валюты: {crs}.",
-                colour=base_color
-                )
-            await channel.send(embed=embed)
-        else:
-            eco["users"]["crypto"]["cryptovalue"] -= value 
-            with open('databases/economy_data/economy_db.json', 'w') as f:
-                json.dump(eco, f)
-            crs = eco["users"]["crypto"]["cryptovalue"]
-            embed = discord.Embed(
-                title=f'Курс криптовалюты успешно изменен!',
-                description = f"Произошло падение в цене на **{value}₽**. Текущий курс валюты: {crs}.",
-                colour=base_color
-                )
-            await channel.send(embed=embed)
-""" 
-
 def setup(Bot):
     Bot.add_cog(economy(Bot))
