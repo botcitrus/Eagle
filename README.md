@@ -38,8 +38,7 @@ $ py eagle.py
 
 #### For music(js) module:
 ```js
-$ cd ./source-js
-$ npm i
+js module at the moment don't working. We'll fix is in u.3.2.0. Follow the news!
 ```
 
 # 💡 Commands
