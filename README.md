@@ -4,7 +4,7 @@ Eagle is a multifunctional discord bot which can help you get imazing experience
 # ⚙️ Installition
 To run this bot you need:
 ###### Python 3.8+
-###### npm@7.5.2
+###### npm@7.5.0+
 ###### Requirements in requirements.txt
 ###### And steps written down
 ##### 1. Cloning repository
