@@ -43,4 +43,4 @@ $ py eagle.py
 Base documentation contains in `!help`, `!commands` and `!invite`.
 
 # 🔄 Feedback 
-##### All critics and ideas we'll wait here: https://discord.gg/dVbPMUKFnh
+All critics and ideas we'll wait here: https://discord.gg/dVbPMUKFnh
