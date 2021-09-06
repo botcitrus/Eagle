@@ -15,7 +15,7 @@ or download it is archive `.zip`.
 
 #### For main(python) module:
 ##### 2. Enter your token into config
-> ./source-python/config.py
+> ./source/config.py
 ```py
 #INFOALERT
 TOKEN = 'toke' #Enter here
@@ -32,7 +32,7 @@ $ pip3 install -r requirements.txt
 
 ##### 4. Running code
 ```py
-$ cd ./source-python
+$ cd ./source
 $ py eagle.py
 ```
 
