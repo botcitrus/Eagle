@@ -37,7 +37,7 @@ $ py eagle.py
 ```
 
 #### For music(js) module:
-###### js module at the moment don't working. We'll fix it in u.3.2.0. Follow the news!
+###### js module at the moment don't working. jsMusic added for a public test. Follow the news!
 
 # 💡 Commands
 Base documentation contains in `!help`, `!commands` and `!invite`.
