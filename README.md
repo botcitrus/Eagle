@@ -1,5 +1,5 @@
 # 🦅 Description
-Eagle is a multifunctional discord bot which can help you get imazing experience of staying in server. Eagle can moderate, make fun with economy and many features else!
+Eagle is a multinational discord bot which can help you get imazing experience of staying in server. Eagle can moderate, make fun with economy and many features else!
 
 # ⚙️ Installition
 To run this bot you need:
