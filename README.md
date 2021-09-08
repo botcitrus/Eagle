@@ -9,7 +9,7 @@ To run this bot you need:
 ###### Requirements in requirements.txt
 ###### And steps written down
 ##### 1. Cloning repository
-```bash
+```py
 $ git clone https://github.com/DarkJoij/Eagle.git
 ```
 or download it is archive `.zip`.
@@ -17,7 +17,7 @@ or download it is archive `.zip`.
 #### For main module:
 ##### 2. Enter your token into config
 > ./source/config.py
-```bash
+```py
 #INFOALERT
 TOKEN = 'toke' #Enter here
 
@@ -26,13 +26,13 @@ PREFIX = '->'
 ```
 
 ##### 3. Installing requierements
-```bash
+```py
 $ cd path/to/requirements.txt (must be ./)
 $ pip3 install -r requirements.txt
 ```
 
 ##### 4. Running code
-```bash
+```py
 $ cd ./source
 $ py eagle.py
 ```
