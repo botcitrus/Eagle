@@ -1,4 +1,4 @@
-![https://img.shields.io/badge/bata%20v-v.3.1.3-blue](https://img.shields.io/badge/bata%20v-v.3.1.3-blue) ![https://img.shields.io/badge/Python-3.9.2-blue](https://img.shields.io/badge/Python-3.9.2-blue) 
+![https://img.shields.io/badge/data%20v-v.3.1.3-blue](https://img.shields.io/badge/data%20v-v.3.1.3-blue) ![https://img.shields.io/badge/Python-3.9.2-blue](https://img.shields.io/badge/Python-3.9.2-blue) 
 
 # 🦅 Description
 Eagle is a multinational discord bot which can help you get imazing experience of staying in server. Eagle can moderate, make fun with economy and many features else!
