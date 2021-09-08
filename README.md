@@ -4,7 +4,6 @@ Eagle is a multinational discord bot which can help you get imazing experience o
 # ⚙️ Installition
 To run this bot you need:
 ###### Python 3.8+
-###### npm@7.5.0+
 ###### Requirements in requirements.txt
 ###### And steps written down
 ##### 1. Cloning repository
@@ -35,9 +34,6 @@ $ pip3 install -r requirements.txt
 $ cd ./source
 $ py eagle.py
 ```
-
-#### For music(js) module:
-###### js module at the moment don't working. jsMusic added for a public test. Follow the news!
 
 # 💡 Commands
 Base documentation contains in `!help`, `!commands` and `!invite`.
