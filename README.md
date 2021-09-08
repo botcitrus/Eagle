@@ -41,4 +41,5 @@ $ py eagle.py
 Base documentation contains in `!help`, `!commands` and `!invite`.
 
 # 🔄 Feedback 
-All critics and ideas we'll wait here: https://discord.gg/dVbPMUKFnh
+All critics and ideas we'll wait here:
+<a href="https://discord.com/invite/UjZfN5tUVS"><img src="https://discordapp.com/api/guilds/818876590284210218/widget.png?style=banner3" alt="" /></a>
