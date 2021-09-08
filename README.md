@@ -14,7 +14,7 @@ $ git clone https://github.com/DarkJoij/Eagle.git
 ```
 or download it is archive `.zip`.
 
-#### For main(python) module:
+#### For main module:
 ##### 2. Enter your token into config
 > ./source/config.py
 ```py
