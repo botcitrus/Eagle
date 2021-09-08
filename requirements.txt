@@ -1,4 +1,4 @@
 discord.py==1.7.3
 discord-components==2.1.0
-Cybernator==
+Cybernator==0.6.3
 psutil==
