@@ -1,0 +1,20 @@
+{
+  "users": {
+    "money": {}, 
+    "bank": {}, 
+    "crypto": {
+      "userbalance": {}, 
+      "cryptovalue": 100
+    }
+  }, 
+  "tech": {
+    "shop": {
+      "base": {}, 
+      "sale": {
+        "roleid": {}, 
+        "salevalue": {}
+      }, 
+      "oneuse": {}
+    }
+  }
+}
