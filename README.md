@@ -15,7 +15,7 @@ $ git clone https://github.com/DarkJoij/Eagle.git
 or download it is archive `.zip`.
 
 #### For main module:
-##### 2. Enter your token into config
+##### 2. Enter your token into data file
 > ./source/data/bot_data.json
 ```json
 {
