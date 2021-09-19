@@ -16,13 +16,16 @@ or download it is archive `.zip`.
 
 #### For main module:
 ##### 2. Enter your token into config
-> ./source/config.py
-```py
-#INFOALERT
-TOKEN = 'toke' #Enter here
-
-#PREFIX
-PREFIX = '->'
+> ./source/data/bot_data.json
+```json
+{
+    "unique": {
+        "token": "token" #Enter token here
+    },
+    "tech": {
+        "prefix": "->"
+    }
+}
 ```
 
 ##### 3. Installing requierements
