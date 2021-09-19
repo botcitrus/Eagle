@@ -20,7 +20,7 @@ or download it is archive `.zip`.
 ```json
 {
     "unique": {
-        "token": "token" #Enter token here
+        "token": "token" //Enter token here
     },
     "tech": {
         "prefix": "->"
